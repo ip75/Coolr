@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coolr</string>
+    <string name="save_image">Сохраняем изображение</string>
+    <string name="loading">Подключаемся к серверу</string>
+    <string name="loading_vote">Загружаем данные</string>
+    <string name="vote">Оценить</string>
+    <string name="newbox">На оценку</string>
+    <string name="prof">Мой профиль</string>
+    <string name="voteCount">Голосов</string>
+    <string name="voteHelpTextOnImg">Нравиться? Жми!</string>
+    <string name="shownAllBox">Мы показали Вам все фото, заходите позже!</string>
+    <string name="createdAt">Создано</string>
+    <string name="crash_toast_text">Извините, произошла ошибка в приложении, отчет об ошибке будет отправлен по почте разработчикам.</string>
+    <string name="success">Все сработало корректно</string>
+    <string name="save_error">Невозможно отправить данные на сервер: </string>
+    <string name="receive_error">Ошибка получения данных: </string>
+    <string name="image_process">обработка изображения</string>
+    <string name="no_camera">Камера не найдена</string>
+    <string name="msq_new_vote_title">Новый голос</string>
+    <string name="msq_new_vote_text">Получена новая оценка по вашим фотографиям</string>
+    
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_check"        
+        android:showAsAction="always"
+        android:title="@string/vote" android:icon="@drawable/ic_action_rating_good">
+    </item>
+    <item
+        android:id="@+id/item_new_box"   
+        android:showAsAction="always"
+        android:title="@string/newbox" android:icon="@drawable/ic_action_device_access_camera">
+    </item>
+    <item
+        android:id="@+id/item_profile_photo"        
+        android:showAsAction="always"
+        android:title="@string/prof" android:icon="@drawable/ic_action_social_person">
+    </item>    
+</menu>

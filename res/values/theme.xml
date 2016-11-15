@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShopHelperTheme" parent="@android:style/Theme.Light">
+     	<!--  	 <item name="android:windowBackground">#DADADA</item> -->
+     	<!--  <item name="android:background">#DADADA</item>-->
+        <!--<item name="android:textColor">#F0E68C</item>-->
+         <item name="android:actionBarStyle">@style/MyActionBarTabStyle</item>
+         
+    </style>
+    
+    <!-- стиль для вкладок -->
+	<style name="MyActionBarTabStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+	    <item name="android:background">#ffcce6</item>
+	</style>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coolr</string>
+    <string name="save_image">Saving image...</string>
+    <string name="loading">Connecting to server</string>
+    <string name="loading_vote">Loading data...</string>
+    <string name="vote">Vote please</string>
+    <string name="newbox">For vote</string>
+    <string name="prof">My profile</string>
+    <string name="voteCount">Votes</string>
+    <string name="voteHelpTextOnImg">Touch if you like it!</string>
+    <string name="shownAllBox">We have already show you all pictures, welcome late!</string>
+    <string name="createdAt">Created</string>
+    <string name="crash_toast_text">Sorry, error was occurred and report will be sent to developers by e-mail.</string>
+    <string name="success">Success</string>
+    <string name="save_error">Unable to send data to server: </string>
+    <string name="receive_error">Error while retrieving data: </string>
+    <string name="image_process">Image processing...</string>
+    <string name="no_camera">No camera found</string>
+     <string name="msq_new_vote_title">New vote</string>
+    <string name="msq_new_vote_text">New votes received for your photos</string>
+</resources>

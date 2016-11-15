@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/box_preview_image1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:layout_weight="1"
+            android:scaleType="fitStart"
+            android:src="@drawable/ic_launcher" />
+
+        <ImageView
+            android:id="@+id/box_preview_image2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dip"
+            android:layout_marginRight="3dip"
+            android:layout_weight="1"
+            android:scaleType="fitStart"
+            android:src="@drawable/ic_launcher" />
+
+    </LinearLayout>
+
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/back_to_photo2_button"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_navigation_previous_item" />
+
+        <ImageButton
+            android:id="@+id/next_button"
+            android:layout_width="156dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_social_send_now" />
+
+    </LinearLayout>
+    
+ </LinearLayout> 
